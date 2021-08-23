@@ -1,2 +1,0 @@
-connection: "@{CONNECTION_NAME}"
-
