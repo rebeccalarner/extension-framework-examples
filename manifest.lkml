@@ -1,4 +1,4 @@
-project_name: "extension-framework-examples"
+project_name: "uberext"
 
 application: demo-core-sdk {
   file: "dist/demo-core-sdk/bundle.js"
